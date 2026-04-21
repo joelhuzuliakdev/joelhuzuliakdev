@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Joel 👋
 
-<!--
-**joelhuzuliakdev/joelhuzuliakdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollo sistemas web para negocios, ayudando a digitalizar ventas, stock y gestión diaria.
 
-Here are some ideas to get you started:
+## 🚀 Qué hago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Sistemas de gestión (ventas, stock, clientes)
+* Turneros online
+* Páginas web con panel administrador
+
+## 🛠️ Tecnologías
+
+* Astro
+* Supabase
+* Tailwind CSS
+* JavaScript
+
+## 📌 Proyectos destacados
+
+* Sistema de gestión para negocios
+* App de turnos online
+* Webs con panel admin
+
+## 📩 Contacto
+
+* Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+* WhatsApp: +54...
