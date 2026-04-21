@@ -23,5 +23,5 @@ Desarrollo sistemas web para negocios, ayudando a digitalizar ventas, stock y ge
 
 ## 📩 Contacto
 
-* Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
-* WhatsApp: +54...
+* Email: joelhuzuliakdev@outlook.com
+* WhatsApp: +543572548014
