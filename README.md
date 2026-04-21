@@ -10,10 +10,10 @@ Desarrollo sistemas web para negocios, ayudando a digitalizar ventas, stock y ge
 
 ## 🛠️ Tecnologías
 
-* Astro
-* Supabase
-* Tailwind CSS
-* JavaScript
+- Desarrollo web: Astro, React  
+- Backend y base de datos: Supabase  
+- UI: Tailwind CSS  
+- Lenguajes: JavaScript, TypeScript  
 
 ## 📌 Proyectos destacados
 
